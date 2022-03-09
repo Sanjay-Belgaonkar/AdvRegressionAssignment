@@ -28,7 +28,6 @@ You are required to model the price of houses with the available independent var
   - goal    - analyze which variables are significant visually
 5. Feature engineering
   - label encoding 
-  - one hot encoding
   - target variable tarnsformation to normalize   
 6. Model Building
   - Train-Test split (70%-30%)
